@@ -118,7 +118,7 @@ A Software Engineering Technology fresh graduate who turns ideas into designs an
 <p align="center">
 	<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
 		<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Nishy's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=nisrinaishmh&theme=monokai-metallian&hide_border=true"/></a>
-<p align="center"> If you can dream it, you can do it🔥 </p>
+<p align="center"> Where Imagination Meets Execution🔥 </p>
 </p>
 
 ## 🙋‍♂️ Let's Connect 🌎
