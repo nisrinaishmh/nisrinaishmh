@@ -14,11 +14,7 @@ A Software Engineering Technology fresh graduate who turns ideas into designs an
 - 💬 &nbsp; Feel free to ask me in regards to anything here! </a>
 - 🧠 &nbsp; Fun fact: I have 99 tabs open, and my brain is one of them.
 - 🧩 &nbsp; My biggest enemy? A missing semicolon.
-
-### ⭐ Absolute Favorites
-
-- 🌐 &nbsp; Reading, writing, watching and learning on new technologies whenever possible.
-- 🍕 &nbsp; Meetups, interacting with my communities, and just chatting.
+- 🌐 &nbsp; I like Wall Climbing, Reading, Writing, Watching and Learning on new technologies whenever possible.
 
 ### 👩‍💻 Technologies I'm Familiar With
 
