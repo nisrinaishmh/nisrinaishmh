@@ -121,14 +121,21 @@ A Software Engineering Technology fresh graduate who turns ideas into designs an
 <p align="center"> Where Imagination Meets Execution🔥 </p>
 </p>
 
-## 🙋‍♂️ Let's Connect 🌎
+
+## 🙋‍♀️ Let's Connect 🌎
 <div align="center">
-	<a href="http://nomaniqbal.epizy.com/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/web.png" title="WebSite" alt="WebSite"/></a>
-	<a href="https://github.com/thenomaniqbal" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" title="GitHub Profile" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/thenomaniqbal/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" title="Linkedin Profile" alt="LinkedIn"/></a>
-	<!--<a href="https://www.facebook.com/thenomaniqbal/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" title="Facebook Profile" alt="Facebook"/></a>-->
-	<a href="https://www.instagram.com/thenomaniqbal/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" title="Instagram Profile" alt="Instagram"/></a>
-	<a href="mailto:thenomaniqbal@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" title="Email Me:" alt="Gmail"/></a>
+	<a href="https://github.com/nisrinaishmh" target="_blank">
+		<img src="https://img.icons8.com/bubbles/50/000000/github.png" title="GitHub Profile" alt="GitHub"/>
+	</a>
+	<a href="https://www.linkedin.com/in/nisrinaishmah" target="_blank">
+		<img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" title="LinkedIn Profile" alt="LinkedIn"/>
+	</a>
+	<a href="https://www.instagram.com/mahiraishmah" target="_blank">
+		<img src="https://img.icons8.com/bubbles/50/000000/instagram.png" title="Instagram Profile" alt="Instagram"/>
+	</a>
+	<a href="mailto:nisrinaishmahmahira@gmail.com" target="_blank">
+		<img src="https://img.icons8.com/bubbles/50/000000/gmail.png" title="Email Me" alt="Gmail"/>
+	</a>
 </div>
 
 
